@@ -1,0 +1,2 @@
+# sudoko
+using backtracking algorithm
